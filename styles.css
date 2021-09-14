@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Red Hat Display', sans-serif;
-    background: url(images/pattern-background-desktop.svg) no-repeat;
+    background: url(https://lenasokolova.github.io/Order-Summary-Component/images/pattern-background-desktop.svg) no-repeat;
     background-color: hsl(225, 100%, 94%);
     background-attachment: fixed;
     background-position-y: -200px;
