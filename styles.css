@@ -139,7 +139,7 @@ footer{
 
 @media screen and (max-width: 992px){
     body{
-        background: url(images/pattern-background-mobile.svg)no-repeat;
+        background: url(lenasokolova/Order-Summary-Component/images/pattern-background-mobile.svg)no-repeat;
         background-size: 100%;
         background-color: hsl(225, 100%, 94%);
     }
